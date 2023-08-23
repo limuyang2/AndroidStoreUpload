@@ -1,9 +1,14 @@
 # AndroidStoreUpload
 Android 应用商店传包工具（图形化传包）
 
-![](/pic/logo.png)
+<div align=center>
+<img src="/pic/logo.png" width="100" height="auto" >
+</div>
+
+预览图：
 
 ![](/pic/1.png)
+
 ![](/pic/2.png)
 
 支持的商店：
