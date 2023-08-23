@@ -1,6 +1,11 @@
 # AndroidStoreUpload
 Android 应用商店传包工具（图形化传包）
 
+![](/pic/logo.png)
+
+![](/pic/1.png)
+![](/pic/2.png)
+
 支持的商店：
 - Oppo
 - Vivo
